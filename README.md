@@ -14,6 +14,17 @@ which contains vast amount of unexplored data of this kind.
 
 This work originates as seminar work for Data Preprocessing course at FIT CTU.
 
+## Setup
+
+It is recommended to create virtual enviroment to avoid dependency problems:
+
+```bash
+$ python3.6 -m venv venv
+$ source venv/bin/active
+$ pip install -U pip wheel setuptools
+$ pip install -r requirements.txt
+```
+
 ## Data
 
 Spectral data from Ondrejov CCD700 spectrograph are aggregated into CSV file
