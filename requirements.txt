@@ -7,3 +7,4 @@ scipy==1.0.0
 seaborn==0.8.1
 imbalanced-learn==0.3.2
 tensorflow==1.4.1
+astropy==2.0.3
